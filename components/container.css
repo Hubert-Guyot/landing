@@ -1,0 +1,17 @@
+.container > a {
+	margin-left: 30%;
+	text-decoration: none;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+ 	font-style: bold;
+ 	text-align: center;
+ 	font-size: 500%;
+}
+
+.container {
+		margin-top: 40%;
+}
+
+a :hover{
+	color: #222E80;
+}
